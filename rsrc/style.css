@@ -6,5 +6,8 @@ body {
 }
 /* Здесь можно менять цвет шапки */
 .navbar {
-    background-color: rgb(0, 102, 204, 0.8);
+    background-color: rgb(0, 102, 204, 0.85);
+}
+footer {
+    background-color: rgb(0, 102, 204, 0.15);
 }
